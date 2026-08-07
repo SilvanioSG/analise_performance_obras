@@ -1,54 +1,57 @@
-# 📊 Análise de RH — Visão Estratégica
+# 📊 Análise de Performance de Obras
 
 ![Logo](logo_br_site.png)
 
 ## Visão geral
 
-Este projeto apresenta uma **análise estratégica de Recursos Humanos (RH)**, utilizando dados para apoiar a compreensão dos principais indicadores e transformar informações em **insights para tomada de decisão**.
+Este projeto apresenta uma **análise de performance de obras**, com foco na avaliação de resultados, indicadores e informações relevantes para apoiar uma visão mais estratégica da gestão de projetos e operações.
 
-🌐 **Acesse a página do projeto:**
-https://silvaniosg.github.io/analise_de_RH/
+🌐 **Acesse o projeto no GitHub:**
+https://github.com/SilvanioSG/analise_performance_obras
 
-O projeto foi desenvolvido com foco em **análise, interpretação e apresentação de dados**, buscando uma visão mais objetiva e estratégica sobre os aspectos relacionados à gestão de pessoas.
+O trabalho busca demonstrar como a **análise de dados aplicada à performance operacional** pode contribuir para identificar oportunidades, compreender resultados e apoiar decisões mais assertivas.
 
 ---
 
-## 📄 Relatório
+## 📄 Relatório Executivo
 
-O projeto é acompanhado pelo relatório:
+O projeto é acompanhado pelo documento:
 
-**Síntese - Visão Estratégica de RH.pdf**
+**Resumo Executivo de Performance**
 
-O documento apresenta uma síntese das análises realizadas e dos principais pontos identificados a partir dos dados.
+O relatório apresenta uma síntese dos principais resultados e conclusões da análise, proporcionando uma visão objetiva da performance das obras e dos aspectos relevantes para a gestão.
 
-📥 **[Acessar o relatório — Síntese - Visão Estratégica de RH](Síntese%20-%20Visão%20Estratégica%20de%20RH.pdf)**
+📥 **[Acessar o Resumo Executivo de Performance](Resumo%20Executivo%20de%20Performance.pdf)**
 
 ---
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é demonstrar como a análise de dados pode contribuir para uma visão mais estratégica da área de Recursos Humanos, permitindo:
+O objetivo deste projeto é utilizar dados e indicadores para desenvolver uma visão estruturada sobre a **performance de obras**, contribuindo para uma gestão orientada a resultados.
 
-* 📌 Identificar padrões e tendências;
-* 📊 Transformar dados em informações relevantes;
-* 🔎 Apoiar a identificação de pontos de atenção;
-* 💡 Gerar insights para tomada de decisão;
-* 🎯 Contribuir para uma gestão mais orientada a dados;
-* 📈 Ampliar a visão estratégica sobre indicadores de RH.
+Entre os principais objetivos estão:
+
+* 📊 Analisar indicadores de performance;
+* 📈 Avaliar resultados e tendências;
+* 🔎 Identificar pontos de atenção e oportunidades;
+* 🎯 Apoiar a tomada de decisão;
+* ⚙️ Contribuir para uma gestão operacional mais eficiente;
+* 💡 Transformar dados em insights estratégicos;
+* 📌 Desenvolver uma visão orientada a resultados.
 
 ---
 
-## 🧩 Estrutura do projeto
+## 🧩 Conteúdo do projeto
 
 ```text
-analise_de_RH/
+analise_performance_obras/
 │
 ├── logo_br_site.png
-├── Síntese - Visão Estratégica de RH.pdf
+├── Resumo Executivo de Performance.pdf
 └── ...
 ```
 
-A página web apresenta a análise de forma visual e interativa, enquanto o relatório em PDF consolida a **síntese da visão estratégica de RH**.
+O projeto reúne a apresentação da análise e seu respectivo **Resumo Executivo de Performance**, permitindo uma visão consolidada dos resultados obtidos.
 
 ---
 
@@ -58,7 +61,7 @@ A página web apresenta a análise de forma visual e interativa, enquanto o rela
 
 **Gestor de Operações e Negócios Orientado a Dados**
 
-Atuação com foco na integração entre **gestão, operações, negócios e análise de dados**, buscando transformar informações em conhecimento aplicável para apoiar decisões e gerar melhores resultados.
+Atuação com foco na integração entre **gestão, operações, negócios e análise de dados**, utilizando informações e indicadores para apoiar decisões, melhorar processos e gerar resultados.
 
 ---
 
@@ -72,13 +75,13 @@ Atuação com foco na integração entre **gestão, operações, negócios e an�
 
 ---
 
-## 🔗 Projeto online
+## 🔗 Projeto
 
-> **Visite a análise completa:**
-> https://silvaniosg.github.io/analise_de_RH/
+> **Acesse o repositório no GitHub:**
+> https://github.com/SilvanioSG/analise_performance_obras
 
 ---
 
-### 📌 Projeto de análise e visão estratégica de Recursos Humanos
+### 📌 Projeto de análise de performance operacional
 
-**Gestão • Operações • Negócios • Dados • Estratégia**
+**Gestão • Operações • Obras • Performance • Dados • Estratégia**
